@@ -17,7 +17,7 @@ Since nobody was doing this, I`m gonna do it myself
 
 6 step , and you`re ready to go
 
-####1. Clone this repo
+#### 1. Clone this repo
 ```
 git clone https://github.com/Rosanta/testHeader.git
 ```
@@ -26,7 +26,7 @@ Or, you can just get the header file.
 wget https://github.com/Rosanta/testHeader/blob/master/test.h
 ```
 
-####2. Create a new file and include the header
+#### 2. Create a new file and include the header
 ```
 #include "test.h"
 ```
